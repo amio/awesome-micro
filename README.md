@@ -13,4 +13,4 @@ A collection of awesome things regarding zeit's [`micro`](https://github.com/zei
 
 - [Minimum Viable Async with Node 6](https://gist.github.com/rauchg/8199de60db48026a6670620a1c33b700)
 - [Regarding no-middleware](https://github.com/zeit/micro/issues/8)
-- [Routing](https://github.com/zeit/micro/issues/16)
+- [Use Micro with routes](https://github.com/zeit/micro/issues/16#issuecomment-193518395)
