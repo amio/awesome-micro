@@ -14,6 +14,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [`micro`](https://github.com/zeit/micro) services [`Boom`](https://github.com/hapijs/boom) errors
 - [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs
 - [fs-router](https://github.com/jesseditson/fs-router) - Use the FS as your micro router
+- [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like zeit's list, but for images
 
 ## Tools
 
