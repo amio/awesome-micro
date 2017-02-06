@@ -16,6 +16,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 ## Tools
 
 - [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) - Yeoman generator to kick-start your microservice with `micro` and `ava`
+- [micro-cluster](https://github.com/zeit/micro-cluster) - Run multiple micro servers and a front proxy at a time
 
 ## Articles & FAQ
 
