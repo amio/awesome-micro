@@ -13,6 +13,10 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [`micro`](https://github.com/zeit/micro) services [`Boom`](https://github.com/hapijs/boom) errors
 
+## Tools
+
+- [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) - Yeoman generator to kick-start your microservice with `micro` and `ava`
+
 ## Articles & FAQ
 
 - [Minimum Viable Async with Node 6](https://gist.github.com/rauchg/8199de60db48026a6670620a1c33b700)
