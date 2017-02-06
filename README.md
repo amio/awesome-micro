@@ -12,6 +12,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-cors](https://github.com/possibilities/micro-cors) - Simple CORS middleware
 - [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [`micro`](https://github.com/zeit/micro) services [`Boom`](https://github.com/hapijs/boom) errors
+- [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs
 
 ## Tools
 
