@@ -10,6 +10,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [now-go](https://github.com/amio/now-go) - A personal tinyurl service.
 - [micro-compress](https://github.com/joakimbeng/micro-compress) - Compression for HTTP microservices.
 - [micro-cors](https://github.com/possibilities/micro-cors) - Simple CORS middleware
+- [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application
 
 ## Articles & FAQ
 
