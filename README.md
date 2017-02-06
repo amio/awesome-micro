@@ -13,6 +13,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [`micro`](https://github.com/zeit/micro) services [`Boom`](https://github.com/hapijs/boom) errors
 - [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs
+- [fs-router](https://github.com/jesseditson/fs-router) - Use the FS as your micro router
 
 ## Tools
 
