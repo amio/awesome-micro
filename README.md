@@ -23,6 +23,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 
 - [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) - Yeoman generator to kick-start your microservice with `micro` and `ava`
 - [create-micro](https://github.com/romuloalves/create-micro) - a generator for `micro` projects
+- [micro-starter](https://github.com/samtgarson/micro-starter) - Basic (opinionated) starter kit for a micro app with webpack build
 - [micro-cluster](https://github.com/zeit/micro-cluster) - Run multiple micro servers and a front proxy at a time
 
 ## Articles & FAQ
