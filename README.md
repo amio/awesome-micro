@@ -17,13 +17,13 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like zeit's list, but for images
 - [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required.
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for Micro.
+- [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with Micro.
 
 ## Development Tools
 
 - [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) - Yeoman generator to kick-start your microservice with `micro` and `ava`
 - [create-micro](https://github.com/romuloalves/create-micro) - a generator for `micro` projects
 - [micro-cluster](https://github.com/zeit/micro-cluster) - Run multiple micro servers and a front proxy at a time
-- [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with Micro.
 
 ## Articles & FAQ
 
