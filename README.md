@@ -7,20 +7,23 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 ## Modules
 
 - [list](https://github.com/zeit/list) - Single-command HTTP directory listing and file serving.
+- [fs-router](https://github.com/jesseditson/fs-router) - Use the FS as your micro router
 - [now-go](https://github.com/amio/now-go) - A personal tinyurl service.
 - [micro-compress](https://github.com/joakimbeng/micro-compress) - Compression for HTTP microservices.
 - [micro-cors](https://github.com/possibilities/micro-cors) - Simple CORS middleware
 - [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [`micro`](https://github.com/zeit/micro) services [`Boom`](https://github.com/hapijs/boom) errors
 - [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs
-- [fs-router](https://github.com/jesseditson/fs-router) - Use the FS as your micro router
 - [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like zeit's list, but for images
+- [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required.
+- [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for Micro.
 
-## Tools
+## Development Tools
 
 - [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) - Yeoman generator to kick-start your microservice with `micro` and `ava`
 - [create-micro](https://github.com/romuloalves/create-micro) - a generator for `micro` projects
 - [micro-cluster](https://github.com/zeit/micro-cluster) - Run multiple micro servers and a front proxy at a time
+- [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with Micro.
 
 ## Articles & FAQ
 
