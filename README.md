@@ -18,6 +18,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required.
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for Micro.
 - [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with Micro.
+- [micro-router](https://github.com/pedronauck/micro-router) - A tiny and functional router for Zeit's Micro
 
 ## Development Tools
 
