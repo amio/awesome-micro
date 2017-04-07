@@ -28,6 +28,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [create-micro](https://github.com/romuloalves/create-micro) - a generator for `micro` projects
 - [micro-starter](https://github.com/samtgarson/micro-starter) - Basic (opinionated) starter kit for a micro app with webpack build
 - [micro-cluster](https://github.com/zeit/micro-cluster) - Run multiple micro servers and a front proxy at a time
+- [dev-gateway](https://github.com/dimapaloskin/dev-gateway) - Local development gateway with [path aliases](https://zeit.co/docs/features/path-aliases) support.
 
 ## Articles & FAQ
 
