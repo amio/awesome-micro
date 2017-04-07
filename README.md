@@ -19,6 +19,8 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for Micro.
 - [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with Micro.
 - [micro-router](https://github.com/pedronauck/micro-router) - A tiny and functional router for Zeit's Micro
+- [micro-route](https://github.com/dotcypress/micro-route) - Tiny http routing helper.
+- [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for [Micro](https://github.com/zeit/micro).
 
 ## Development Tools
 
