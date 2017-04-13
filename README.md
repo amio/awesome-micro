@@ -22,6 +22,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-route](https://github.com/dotcypress/micro-route) - Tiny http routing helper.
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for [Micro](https://github.com/zeit/micro).
 - [micro-chain](https://github.com/dimapaloskin/micro-chain) - Builds flexible requests chains and pass them into micro handler.
+- [microauth](https://github.com/microauth) - Collection of authentication modules for zeit's micro.
 
 ## Development Tools
 
