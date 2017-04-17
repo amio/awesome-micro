@@ -23,6 +23,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for [Micro](https://github.com/zeit/micro).
 - [micro-chain](https://github.com/dimapaloskin/micro-chain) - Builds flexible requests chains and pass them into micro handler.
 - [microauth](https://github.com/microauth) - Collection of authentication modules for zeit's micro.
+- [micro-cookie-session](https://github.com/billymoon/micro-cookie-session) - Simple cookie-based session storage for micro.
 
 ## Development Tools
 
