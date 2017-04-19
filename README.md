@@ -6,26 +6,25 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 
 ## Modules
 
-- [list](https://github.com/zeit/list) - Single-command HTTP directory listing and file serving.
-- [fs-router](https://github.com/jesseditson/fs-router) - Use the FS as your micro router
-- [now-go](https://github.com/amio/now-go) - A personal tinyurl service.
+- Routing
+  - [fs-router](https://github.com/jesseditson/fs-router) - Use the FS as your micro router.
+  - [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs.
+  - [micro-route](https://github.com/dotcypress/micro-route) - Tiny http routing helper.
+  - [micro-router](https://github.com/pedronauck/micro-router) - A tiny and functional router for Zeit's Micro.
+  - [micro-method-router](https://github.com/jamo/micro-method-router) - Minimal routing layer for HTTP methods.
 - [micro-compress](https://github.com/joakimbeng/micro-compress) - Compression for HTTP microservices.
-- [micro-cors](https://github.com/possibilities/micro-cors) - Simple CORS middleware
-- [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application
-- [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [`micro`](https://github.com/zeit/micro) services [`Boom`](https://github.com/hapijs/boom) errors
-- [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs
-- [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like zeit's list, but for images
+- [micro-cors](https://github.com/possibilities/micro-cors) - Simple CORS middleware.
+- [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application.
+- [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [`micro`](https://github.com/zeit/micro) services [`Boom`](https://github.com/hapijs/boom) errors.
+- [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like zeit's list, but for images.
 - [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required.
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for Micro.
 - [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with Micro.
-- [micro-router](https://github.com/pedronauck/micro-router) - A tiny and functional router for Zeit's Micro
-- [micro-route](https://github.com/dotcypress/micro-route) - Tiny http routing helper.
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for Micro.
 - [micro-chain](https://github.com/dimapaloskin/micro-chain) - Builds flexible requests chains and pass them into micro handler.
 - [microauth](https://github.com/microauth) - Collection of authentication modules for zeit's micro.
 - [micro-cookie-session](https://github.com/billymoon/micro-cookie-session) - Simple cookie-based session storage for micro.
 - [micro-ratelimit](https://github.com/dotcypress/micro-ratelimit) - Rate limiting middleware for Micro.
-- [micro-method-router](https://github.com/jamo/micro-method-router) - Minimal routing layer for HTTP methods.
 - [micro-get](https://github.com/romuloalves/micro-get) - Only accepts GET request for microservices built with Micro.
 - [micro-post](https://github.com/romuloalves/micro-post) - Only accepts POST request for microservices built with Micro.
 - [micro-jwt-auth](https://github.com/kandros/micro-jwt-auth) - json web token(jwt) authorization wrapper for Micro.
@@ -43,3 +42,8 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [Minimum Viable Async with Node 6](https://gist.github.com/rauchg/8199de60db48026a6670620a1c33b700)
 - [Regarding no-middleware](https://github.com/zeit/micro/issues/8)
 - [Use Micro with routes](https://github.com/zeit/micro/issues/16#issuecomment-193518395)
+
+## Built with Micro
+
+- [Serve](https://github.com/zeit/serve) - Static file serving and directory listing.
+- [now-go](https://github.com/amio/now-go) - A personal tinyurl service.
