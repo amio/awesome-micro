@@ -22,7 +22,6 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for Micro.
 - [micro-visualize](https://github.com/onbjerg/micro-visualize) - Development tool that visualizes requests and responses for services written with Micro.
 - [micro-chain](https://github.com/dimapaloskin/micro-chain) - Builds flexible requests chains and pass them into micro handler.
-- [microauth](https://github.com/microauth) - Collection of authentication modules for zeit's micro.
 - [micro-cookie-session](https://github.com/billymoon/micro-cookie-session) - Simple cookie-based session storage for micro.
 - [micro-ratelimit](https://github.com/dotcypress/micro-ratelimit) - Rate limiting middleware for Micro.
 - [micro-get](https://github.com/romuloalves/micro-get) - Only accepts GET request for microservices built with Micro.
