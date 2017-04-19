@@ -12,9 +12,10 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
   - [micro-route](https://github.com/dotcypress/micro-route) - Tiny http routing helper.
   - [micro-router](https://github.com/pedronauck/micro-router) - A tiny and functional router for Zeit's Micro.
   - [micro-method-router](https://github.com/jamo/micro-method-router) - Minimal routing layer for HTTP methods.
+- [microauth](https://github.com/microauth) - Collection of authentication modules for ▲zeit's micro.
+  - [microauth-twitter](https://github.com/microauth/microauth-twitter) | [microauth-facebook](https://github.com/microauth/microauth-facebook) | [microauth-github](https://github.com/microauth/microauth-github) | [microauth-slack](https://github.com/microauth/microauth-slack)
 - [micro-compress](https://github.com/joakimbeng/micro-compress) - Compression for HTTP microservices.
 - [micro-cors](https://github.com/possibilities/micro-cors) - Simple CORS middleware.
-- [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application.
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in [`micro`](https://github.com/zeit/micro) services [`Boom`](https://github.com/hapijs/boom) errors.
 - [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like zeit's list, but for images.
 - [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required.
@@ -27,7 +28,8 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-ratelimit](https://github.com/dotcypress/micro-ratelimit) - Rate limiting middleware for Micro.
 - [micro-get](https://github.com/romuloalves/micro-get) - Only accepts GET request for microservices built with Micro.
 - [micro-post](https://github.com/romuloalves/micro-post) - Only accepts POST request for microservices built with Micro.
-- [micro-jwt-auth](https://github.com/kandros/micro-jwt-auth) - json web token(jwt) authorization wrapper for Micro.
+- [micro-jwt-auth](https://github.com/kandros/micro-jwt-auth) - Json web token(jwt) authorization wrapper for Micro.
+- [micro-redirect](https://www.npmjs.com/package/micro-redirect) - A redirect function for Zeit's micro.
 
 ## Development Tools
 
@@ -47,3 +49,4 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 
 - [Serve](https://github.com/zeit/serve) - Static file serving and directory listing.
 - [now-go](https://github.com/amio/now-go) - A personal tinyurl service.
+- [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application.
