@@ -29,6 +29,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-jwt-auth](https://github.com/kandros/micro-jwt-auth) - Json web token(jwt) authorization wrapper for Micro.
 - [micro-redirect](https://www.npmjs.com/package/micro-redirect) - A redirect function for Zeit's micro.
 - [micro-joi](https://github.com/stearm/micro-joi) - Joi wrapper for Micro.
+- [micro-upload](https://github.com/julianduque/micro-upload) - A express-fileupload wrapper for Zeit's micro.
 
 ## Development Tools
 
