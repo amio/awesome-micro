@@ -30,6 +30,8 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-redirect](https://www.npmjs.com/package/micro-redirect) - A redirect function for Zeit's micro.
 - [micro-joi](https://github.com/stearm/micro-joi) - Joi wrapper for Micro.
 - [micro-upload](https://github.com/julianduque/micro-upload) - A express-fileupload wrapper for Zeit's micro.
+- [micro-hoofs](https://github.com/KaleoSoftware/micro-hoofs) - Higher-order functions for zeit/micro.
+- [micro-compose](https://github.com/microauth/micro-compose) - Hight-order "compose" function.
 
 ## Development Tools
 
