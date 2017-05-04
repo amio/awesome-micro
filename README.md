@@ -32,6 +32,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-upload](https://github.com/julianduque/micro-upload) - A express-fileupload wrapper for Zeit's micro.
 - [micro-hoofs](https://github.com/KaleoSoftware/micro-hoofs) - Higher-order functions for zeit/micro.
 - [micro-compose](https://github.com/microauth/micro-compose) - Hight-order "compose" function.
+- [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - Starter kit with built in authentication using bcrypt and jsonwebtokens
 
 ## Development Tools
 
