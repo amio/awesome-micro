@@ -32,7 +32,6 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-upload](https://github.com/julianduque/micro-upload) - A express-fileupload wrapper for Zeit's micro.
 - [micro-hoofs](https://github.com/KaleoSoftware/micro-hoofs) - Higher-order functions for zeit/micro.
 - [micro-compose](https://github.com/microauth/micro-compose) - Hight-order "compose" function.
-- [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - Starter kit with built in authentication using bcrypt and jsonwebtokens
 
 ## Development Tools
 
@@ -43,6 +42,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [serve-micro-cluster](https://github.com/tylersnyder/serve-micro-cluster) - It's like Path Alias on now, but for local development.
 - [dev-gateway](https://github.com/dimapaloskin/dev-gateway) - Local development gateway with [path aliases](https://zeit.co/docs/features/path-aliases) support.
 - [instantapi](https://github.com/martinstarman/instantapi) - Local instant development api
+- [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - Starter kit with built in authentication using bcrypt and jsonwebtokens
 
 ## Articles & FAQ
 
