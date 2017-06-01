@@ -8,7 +8,6 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 
 - Routing
   - [fs-router](https://github.com/jesseditson/fs-router) - Use the FS as your micro router.
-  - [micro-api](https://github.com/possibilities/micro-api) - Minimal routing layer for building JSON APIs.
   - [micro-route](https://github.com/dotcypress/micro-route) - Tiny http routing helper.
   - [micro-router](https://github.com/pedronauck/micro-router) - A tiny and functional router for Zeit's Micro.
   - [micro-method-router](https://github.com/jamo/micro-method-router) - Minimal routing layer for HTTP methods.
