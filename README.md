@@ -32,7 +32,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-hoofs](https://github.com/KaleoSoftware/micro-hoofs) - Higher-order functions for zeit/micro.
 - [micro-compose](https://github.com/microauth/micro-compose) - Hight-order "compose" function.
 - [micro-query](https://github.com/nerdify/micro-query) - Simple querystring parser for Zeit's Micro.
-
+- [micro-cookie](https://www.npmjs.com/package/micro-cookie) - Cookie parsing for Zeit's Micro.
 ## Development Tools
 
 - [generator-micro-service](https://github.com/vadimdemedes/generator-micro-service) - Yeoman generator to kick-start your microservice with `micro` and `ava`
