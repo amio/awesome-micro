@@ -26,7 +26,7 @@ A collection of awesome things regarding zeit's [Micro](https://github.com/zeit/
 - [micro-get](https://github.com/romuloalves/micro-get) - Only accepts GET request for microservices built with Micro.
 - [micro-post](https://github.com/romuloalves/micro-post) - Only accepts POST request for microservices built with Micro.
 - [micro-jwt-auth](https://github.com/kandros/micro-jwt-auth) - Json web token(jwt) authorization wrapper for Micro.
-- [micro-redirect](https://www.npmjs.com/package/micro-redirect) - A redirect function for Zeit's micro.
+- [micro-redirect](https://github.com/timReynolds/micro-redirect) - A redirect function for Zeit's micro.
 - [micro-joi](https://github.com/stearm/micro-joi) - Joi wrapper for Micro.
 - [micro-upload](https://github.com/julianduque/micro-upload) - A express-fileupload wrapper for Zeit's micro.
 - [micro-hoofs](https://github.com/KaleoSoftware/micro-hoofs) - Higher-order functions for zeit/micro.
