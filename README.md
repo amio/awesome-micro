@@ -13,6 +13,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
   - [micro-method-router](https://github.com/jamo/micro-method-router) - Minimal routing layer for HTTP methods.
   - [micro-ex-router](https://github.com/Masquerade-Circus/micro-ex-router) - Express style router for Zeit's Micro.
   - [micro-action](https://github.com/zhaoyao91/micro-action) - Define actions for Zeit's Micro using micro-aciton protocol.
+  - [micro-http-router](https://github.com/protocol114/micro-http-router) - Express-like router built with a radix tree for lightning-fast performance.
 - [microauth](https://github.com/microauth) - Collection of authentication modules for ▲zeit's micro.
   - [microauth-twitter](https://github.com/microauth/microauth-twitter) | [microauth-facebook](https://github.com/microauth/microauth-facebook) | [microauth-github](https://github.com/microauth/microauth-github) | [microauth-slack](https://github.com/microauth/microauth-slack)
 - [micro-compress](https://github.com/joakimbeng/micro-compress) - Compression for HTTP microservices.
