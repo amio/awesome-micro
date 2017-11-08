@@ -67,3 +67,4 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [marked](https://github.com/amio/marked) - Markdown render service
 - [font-mess](https://github.com/amio/font-mess) - Obscure text with messed font
 - [gh-latest-repos](https://github.com/sindresorhus/gh-latest-repos) - Get the latest public GitHub repos from a user
+- [imagemin-micro](https://github.com/imagemin/imagemin-micro) - Minify images
