@@ -52,6 +52,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-starter](https://github.com/samtgarson/micro-starter) - Basic (opinionated) starter kit for a micro app with webpack build
 - [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - Starter kit with built in authentication using bcrypt and jsonwebtokens
 - [micro-graphql](https://github.com/hyperfuse/micro-graphql) - GraphQL Microservice
+- [nuxt-micro](https://github.com/nuxt-community/micro-template) - A [Vue-CLI](https://github.com/vuejs/vue-cli) template to generate a [Nuxt.js](https://github.com/nuxt/nuxt.js) project with micro as a backend
 
 ## Articles & FAQ
 
