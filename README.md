@@ -7,6 +7,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 ## Modules
 
 - Routing
+  - [router](https://github.com/pillarjs/router) - Simple middleware-style router.
   - [fs-router](https://github.com/jesseditson/fs-router) - Use the FS as your micro router.
   - [micro-route](https://github.com/dotcypress/micro-route) - Tiny http routing helper.
   - [micro-router](https://github.com/pedronauck/micro-router) - A tiny and functional router for Zeit's Micro.
