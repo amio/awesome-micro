@@ -38,7 +38,8 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-query](https://github.com/nerdify/micro-query) - Simple querystring parser for Zeit's Micro.
 - [micro-cookie](https://github.com/zakjholt/micro-cookie) - Cookie parsing for Zeit's Micro.
 - [micro-sentry](https://github.com/tanmulabs/micro-sentry) - Send micro errors to the Sentry service.
-- [micro-match](https://github.com/nblackburn/micro-match) -  A simple url matching utility for micro. 
+- [micro-match](https://github.com/nblackburn/micro-match) -  A simple url matching utility for micro.
+- [micro-superstruct](https://github.com/brandon93s/micro-superstruct) - Superstruct wrapper for Micro enabling validation of request body and query parameters.
 
 ## Development Tools
 
