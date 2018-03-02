@@ -44,10 +44,11 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 
 ## Development Tools
 
-- [micro-cluster](https://github.com/zeit/micro-cluster) - Run multiple micro servers and a front proxy at a time
+- [micro-dev](https://github.com/zeit/micro-dev) - The development environment for `micro`.
+- [micro-cluster](https://github.com/zeit/micro-cluster) - Run multiple micro servers and a front proxy at a time.
 - [serve-micro-cluster](https://github.com/tylersnyder/serve-micro-cluster) - It's like Path Alias on now, but for local development.
 - [dev-gateway](https://github.com/dimapaloskin/dev-gateway) - Local development gateway with [path aliases](https://zeit.co/docs/features/path-aliases) support.
-- [instantapi](https://github.com/martinstarman/instantapi) - Local instant development api
+- [instantapi](https://github.com/martinstarman/instantapi) - Local instant development api.
 
 ## Boilerplates
 
