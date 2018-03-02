@@ -40,6 +40,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-sentry](https://github.com/tanmulabs/micro-sentry) - Send micro errors to the Sentry service.
 - [micro-match](https://github.com/nblackburn/micro-match) -  A simple url matching utility for micro.
 - [micro-superstruct](https://github.com/brandon93s/micro-superstruct) - Superstruct wrapper for Micro enabling validation of request body and query parameters.
+- [micro-bunyan-request](https://github.com/maximeshr/micro-bunyan-request) - Request, response logger middleware using bunyan for micro framework.
 
 ## Development Tools
 
