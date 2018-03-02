@@ -41,6 +41,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-match](https://github.com/nblackburn/micro-match) -  A simple url matching utility for micro.
 - [micro-superstruct](https://github.com/brandon93s/micro-superstruct) - Superstruct wrapper for Micro enabling validation of request body and query parameters.
 - [micro-bunyan-request](https://github.com/maximeshr/micro-bunyan-request) - Request, response logger middleware using bunyan for micro framework.
+- [micro-correlation-id](https://github.com/tafarij/micro-correlation-id) - Correlate http requests across microservices.
 
 ## Development Tools
 
