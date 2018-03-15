@@ -42,6 +42,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-superstruct](https://github.com/brandon93s/micro-superstruct) - Superstruct wrapper for Micro enabling validation of request body and query parameters.
 - [micro-bunyan-request](https://github.com/maximeshr/micro-bunyan-request) - Request, response logger middleware using bunyan for micro framework.
 - [micro-correlation-id](https://github.com/tafarij/micro-correlation-id) - Correlate http requests across microservices.
+- [cache-micro](https://github.com/fmiras/cache-micro) - A micro utility for data caching
 
 ## Development Tools
 
