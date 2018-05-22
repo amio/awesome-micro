@@ -74,6 +74,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [Serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [now-go](https://github.com/amio/now-go) - A personal tinyurl service
 - [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application
+- [micro-figma](https://github.com/jongold/micro-figma) - Add authentication with Figma to your application
 - [marked](https://github.com/amio/marked) - Markdown render service
 - [font-mess](https://github.com/amio/font-mess) - Obscure text with messed font
 - [gh-latest-repos](https://github.com/sindresorhus/gh-latest-repos) - Get the latest public GitHub repos from a user
