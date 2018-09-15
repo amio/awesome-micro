@@ -45,6 +45,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-correlation-id](https://github.com/tafarij/micro-correlation-id) - Correlate http requests across microservices.
 - [micro-cacheable](https://github.com/fmiras/micro-cacheable) - A micro utility for data caching
 - [micro-health](https://github.com/fmiras/micro-health) - An extension of micro with a Health Check API
+- [micro-notify](https://github.com/pauldariye/micro-notify) - A simple [.notify](https://github.com/bugsnag/bugsnag-js) wrapper to send micro errors to Bugsnag.
 
 ## Development Tools
 
