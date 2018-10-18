@@ -82,3 +82,4 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [gh-latest-repos](https://github.com/sindresorhus/gh-latest-repos) - Get the latest public GitHub repos from a user
 - [imagemin-micro](https://github.com/imagemin/imagemin-micro) - Minify images
 - [Caravaggio](https://gitlab.com/ramiel/caravaggio) - Image manipulation proxy
+- [LaunchLab.Africa](https://launchlab.africa) - A website built with micro
