@@ -16,6 +16,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
   - [micro-action](https://github.com/zhaoyao91/micro-action) - Define actions for Zeit's Micro using micro-action protocol.
   - [micro-http-router](https://github.com/protocol114/micro-http-router) - Express-like router built with a radix tree for lightning-fast performance.
   - [micro-fork](https://github.com/amio/micro-fork) - A fast and functional router for ZEIT's Micro.
+- [micro-mw](https://github.com/mhamann/micro-mw) - A simple library for abstracting middleware away from ZEIT Micro routes / functions.
 - [microauth](https://github.com/microauth) - Collection of authentication modules for ▲zeit's micro.
   - [microauth-twitter](https://github.com/microauth/microauth-twitter) | [microauth-facebook](https://github.com/microauth/microauth-facebook) | [microauth-github](https://github.com/microauth/microauth-github) | [microauth-slack](https://github.com/microauth/microauth-slack) | [microauth-google](https://github.com/microauth/microauth-google)
 - [micro-compress](https://github.com/joakimbeng/micro-compress) - Compression for HTTP microservices.
