@@ -50,6 +50,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-openapi](https://github.com/BealeARTS/micro-openapi) - OpenAPI spec defined router/validation for micro based micro-services.
 - [micro-tree](https://github.com/bealearts/micro-tree) - Path tree based router for micro based micro-services.
 - [micronize](https://github.com/nickcis/micronize) - Simple way of enhacing a function with Zeit's Micro framework (usefull for serverless environment, ie: now & aws lambda).
+- [micro-morgan](https://github.com/nickcis/micro-morgan) - [Morgan](https://github.com/expressjs/morgan) HTTP request logger middleware for Zeit's Micro framework.
 
 ## Development Tools
 
