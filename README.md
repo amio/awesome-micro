@@ -52,6 +52,9 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micronize](https://github.com/nickcis/micronize) - Simple way of enhacing a function with Zeit's Micro framework (usefull for serverless environment, ie: now & aws lambda).
 - [micro-morgan](https://github.com/nickcis/micro-morgan) - [Morgan](https://github.com/expressjs/morgan) HTTP request logger middleware for Zeit's Micro framework.
 
+## Deployment Tools
+- [aws-serverless-micro](https://github.com/nathancahill/aws-serverless-micro) - Deploy Micro functions on AWS Lambda
+
 ## Development Tools
 
 - [micro-dev](https://github.com/zeit/micro-dev) - The development environment for `micro`.
