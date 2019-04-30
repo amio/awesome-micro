@@ -47,8 +47,6 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-health](https://github.com/fmiras/micro-health) - An extension of micro with a Health Check API
 - [micro-notify](https://github.com/pauldariye/micro-notify) - A simple [.notify](https://github.com/bugsnag/bugsnag-js) wrapper to send micro errors to Bugsnag.
 - [micro-logzio](https://github.com/littledumb/micro-logzio) - A middleware for micro framework that logs requests and responses using logz.io service.
-- [micro-openapi](https://github.com/BealeARTS/micro-openapi) - OpenAPI spec defined router/validation for micro based micro-services.
-- [micro-tree](https://github.com/bealearts/micro-tree) - Path tree based router for micro based micro-services.
 - [micronize](https://github.com/nickcis/micronize) - Simple way of enhacing a function with Zeit's Micro framework (usefull for serverless environment, ie: now & aws lambda).
 - [micro-morgan](https://github.com/nickcis/micro-morgan) - [Morgan](https://github.com/expressjs/morgan) HTTP request logger middleware for Zeit's Micro framework.
 
