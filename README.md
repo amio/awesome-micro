@@ -51,6 +51,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [micro-tree](https://github.com/bealearts/micro-tree) - Path tree based router for micro based micro-services.
 - [micronize](https://github.com/nickcis/micronize) - Simple way of enhacing a function with Zeit's Micro framework (usefull for serverless environment, ie: now & aws lambda).
 - [micro-morgan](https://github.com/nickcis/micro-morgan) - [Morgan](https://github.com/expressjs/morgan) HTTP request logger middleware for Zeit's Micro framework.
+- [serve-handler](https://github.com/zeit/serve-handler) - Static file serving and directory listing handler, used by [Serve](https://github.com/zeit/serve)
 
 ## Deployment Tools
 - [aws-serverless-micro](https://github.com/nathancahill/aws-serverless-micro) - Deploy Micro functions on AWS Lambda
