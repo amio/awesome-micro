@@ -21,6 +21,7 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
   - [microauth-twitter](https://github.com/microauth/microauth-twitter) | [microauth-facebook](https://github.com/microauth/microauth-facebook) | [microauth-github](https://github.com/microauth/microauth-github) | [microauth-slack](https://github.com/microauth/microauth-slack) | [microauth-google](https://github.com/microauth/microauth-google)
 - [micro-compress](https://github.com/joakimbeng/micro-compress) - Compression for HTTP microservices.
 - [micro-cors](https://github.com/possibilities/micro-cors) - Simple CORS middleware.
+- [micro-ajv](https://github.com/igat64/micro-ajv) - An Ajv (Another JSON Schema Validator) middleware for Micro.
 - [micro-boom](https://github.com/onbjerg/micro-boom) - Wraps errors in micro with Boom.
 - [micro-analytics](https://github.com/mxstbr/micro-analytics) - Public analytics as a Node.js microservice, no sysadmin experience required.
 - [micro-stats](https://github.com/dotcypress/micro-stats) - Statsd helper for Micro.
