@@ -90,4 +90,5 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [imagemin-micro](https://github.com/imagemin/imagemin-micro) - Minify images
 - [Caravaggio](https://gitlab.com/ramiel/caravaggio) - Image manipulation proxy
 - [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like zeit's serve, but for images.
+- [micro-analytics-events](https://github.com/HugoDF/micro-analytics-events) - A service to record analytics events to SQLite3
 
