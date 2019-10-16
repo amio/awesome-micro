@@ -10,7 +10,7 @@
   - [Routing](#routing)
   - [Authentication](#authentication)
   - [Analytics](#analytics)
-  - [Loggers, Errors & Reporting](loggers--errors--reporting)
+  - [Loggers, Errors & Reporting](#loggers-errors--reporting)
   - [Middlewares](#middlewares)
   - [Wrappers](#wrappers)
   - [HTTP Requests](#http-requests)
