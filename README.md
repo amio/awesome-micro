@@ -36,6 +36,7 @@
 - [micro-http-router](https://github.com/protocol114/micro-http-router) - Express-like router built with a radix tree for lightning-fast performance.
 - [micro-fork](https://github.com/amio/micro-fork) - A fast and functional router for ZEIT's Micro.
 - [@synvox/router](https://github.com/Synvox/router) - A tiny routing library inspired by react hooks and express.js.
+- [@bessonovs/node-http-router](https://github.com/Bessonov/node-http-router) - An extensible TypeScript router for micro and Node.js.
 
 ### Authentication
 
