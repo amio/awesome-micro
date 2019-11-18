@@ -82,6 +82,7 @@
 - [micro-redirect](https://github.com/timReynolds/micro-redirect) - A redirect function for Zeit's micro.
 - [micro-chain](https://github.com/dimapaloskin/micro-chain) - Builds flexible requests chains and pass them into micro handler.
 - [micro-correlation-id](https://github.com/tafarij/micro-correlation-id) - Correlate http requests across microservices.
+- [micro-protocol](https://github.com/cprecioso/micro-protocol) - Get the protocol of the request (optionally following proxies).
 - [micro-host](https://github.com/cprecioso/micro-host) - Get the host of the request (optionally following proxies).
 - [micro-hostname](https://github.com/cprecioso/micro-hostname) - Get the hostname (host without port) of the request (optionally following proxies)
 
