@@ -89,7 +89,7 @@
 ### Higher Order
 
 - [micro-hoofs](https://github.com/KaleoSoftware/micro-hoofs) - Higher-order functions for zeit/micro.
-- [micro-compose](https://github.com/microauth/micro-compose) - Hight-order "compose" function.
+- [micro-compose](https://github.com/microauth/micro-compose) - Higher-order "compose" function.
 
 ### Utilities
 
