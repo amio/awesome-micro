@@ -65,6 +65,7 @@
 - [micro-cors](https://github.com/possibilities/micro-cors) - Simple CORS middleware.
 - [micro-ajv](https://github.com/igat64/micro-ajv) - An Ajv (Another JSON Schema Validator) middleware for Micro.
 - [micro-mw](https://github.com/mhamann/micro-mw) - A simple library for abstracting middleware away from ZEIT Micro routes / functions.
+- [micro-nosniff](https://github.com/GaiAma/micro-nosniff) - Prevents mime type sniffing
 
 ### Wrappers
 
