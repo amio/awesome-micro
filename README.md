@@ -1,8 +1,8 @@
 # Awesome Micro [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<a href="https://github.com/zeit/micro"><img align="right" src="https://camo.githubusercontent.com/67335088cb7b156fb779f6d60635e70780efe714/68747470733a2f2f636c6475702e636f6d2f4a446d6d4858337568462e737667" /></a>
+<a href="https://github.com/vercel/micro"><img align="right" src="https://camo.githubusercontent.com/67335088cb7b156fb779f6d60635e70780efe714/68747470733a2f2f636c6475702e636f6d2f4a446d6d4858337568462e737667" /></a>
 
-> A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/micro) — Asynchronous HTTP microservices.
+> A collection of awesome things regarding Vercel's [Micro](https://github.com/zeit/micro) — Asynchronous HTTP microservices.
 
 ## Contents
 
@@ -135,14 +135,14 @@
 ## Articles & FAQ
 
 - [Minimum Viable Async with Node 6](https://gist.github.com/rauchg/8199de60db48026a6670620a1c33b700)
-- [Regarding no-middleware](https://github.com/zeit/micro/issues/8)
-- [Use Micro with routes](https://github.com/zeit/micro/issues/16#issuecomment-193518395)
-- [Difference between Micro and Koa](https://github.com/zeit/micro/issues/309#issuecomment-332503863)
+- [Regarding no-middleware](https://github.com/vercel/micro/issues/8)
+- [Use Micro with routes](https://github.com/vercel/micro/issues/16#issuecomment-193518395)
+- [Difference between Micro and Koa](https://github.com/vercel/micro/issues/309#issuecomment-332503863)
 
 
 ## Built with Micro
 
-- [Serve](https://github.com/zeit/serve) - Static file serving and directory listing
+- [Serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [micro-github](https://github.com/mxstbr/micro-github) - Add authentication with GitHub to your application
 - [micro-figma](https://github.com/jongold/micro-figma) - Add authentication with Figma to your application
 - [marked](https://github.com/amio/marked) - Markdown render service
@@ -150,6 +150,6 @@
 - [gh-latest-repos](https://github.com/sindresorhus/gh-latest-repos) - Get the latest public GitHub repos from a user
 - [imagemin-micro](https://github.com/imagemin/imagemin-micro) - Minify images
 - [Caravaggio](https://gitlab.com/ramiel/caravaggio) - Image manipulation proxy
-- [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like zeit's serve, but for images.
+- [micro-gallery](https://github.com/andreasmcdermott/micro-gallery) - Like Vercel's serve, but for images.
 - [micro-analytics-events](https://github.com/HugoDF/micro-analytics-events) - A service to record analytics events to SQLite3
 - [micro-jaymock](https://github.com/Meeshkan/micro-jaymock) - Tiny API mocking microservice for generating fake JSON data
